@@ -1,4 +1,1 @@
-# nickBrustinPortfolio
-# nickBrustinPortfolio
-# nickBrustinPortfolio
-# nickBrustinPortfolio
+A portfolio page showcasing my past and present software developing projects
